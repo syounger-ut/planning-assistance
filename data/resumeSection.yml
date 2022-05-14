@@ -1,13 +1,11 @@
 ---
 enable: true
-topTitle: My Resume
+topTitle: My Expertise
 title: >
-  ## My Expertises
+  ## My Expertise
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  The UK town planning system can be challenging to navigate, with layers of policy and legislation to wade through. I will distil the important information and provide you with straightforward advice.
 
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
@@ -15,44 +13,36 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Consultation
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Consultation is a central part of the planning system, whether it be on submitted planning applications or  new planning policy. However, responses to consultation are often dismissed as its not considered to be a “material consideration” - this means it falls outside of the control of planning policy or legislation. I am able to ensure your views are properly considered in the planning process by translating them into planning speak.
   - content: >
-      #### Master in Arts
+      #### Appeals
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      On average, 5 - 15% of applications are refused in England every year. If your application is refused you are entitled to appeal the decision. I have experience working on a variety of planning appeals, but my speciality is written representation planning appeals.
   - content: >
-      #### Master in Arts
+      #### Exceptional Value
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      All of my services provide exceptional value. I am able to achieve this by providing a fully remote service. This means that I conduct all site visits virtually using a mix of satellite images, Google Street View, and photos & videos provided by the client. In addition, I carry out meetings via telephone and video.
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Umbrella co.
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
     time: 2016-Present
   - content: >
-      #### Aperture Science 
+      #### Aperture Science
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
     time: 2010-2016
   - content: >
-      #### ACME Inc. 
+      #### ACME Inc.
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
     time: 2005-2010
   - content: >
-      #### LexCorp 
+      #### LexCorp
 
       Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
     time: 2001-2005

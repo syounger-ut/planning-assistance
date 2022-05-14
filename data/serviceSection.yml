@@ -1,45 +1,35 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle: Expert town planning assistance
 title: >
-  ## Creative Services
+  ## Planning Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  Low cost, high quality town planning services with basic planning reports for your property starting from just £35.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Site constraints and opportunities
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Set out what you can do and what planning regulations affect your site.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Planning application management
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Prepare and submit application documents to ensure you get a positive outcome in good time.
+
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Planning appeals
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Prepare and submit appeal documents if your application has been refused.
+
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Planning application representations
+
+      Write letters of objection or support for planning applications that affect you.
     image: images/service/creative.svg
   - content: >
-      #### Branding
+      #### Emerging planning policy comments
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Respond to future planning policy and submit sites to be allocated for development.
     image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
