@@ -1,36 +1,69 @@
 ---
-title: "Designer Conference at Florida 2020"
-date: 2020-07-13T13:06:26+06:00
+title: "Planning Applications"
 featureImage: images/allpost/allPost-2.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: mobile
 categories: documentation
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Planning Assistance provides a full planning manager service to meet the needs of your project.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+I can help you submit the following applications:
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-> -- <cite>Benjamin Franklin</cite>
+- Full planning permission
+- Householder planning permission
+- Outline planning permission
+- Reserved matters consent
+- Advertisement consent
+- Lawful development certificate
+- Prior approvals
+- Discharge of planning conditions
+- Removal or variation of planning conditions
+- Minor material amendment to a planning permission
+- Non-material amendment to an existing planning permission
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+The planning application management service is adaptable to your requirements and the size of your project. Below is a list of the services I can provide, but to discuss what I would do for your application please submit an enquiry.
 
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
+## Planning Application Management Services
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+### Set up the team
 
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
+If you don’t have a design team yet I will help you:
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+- Prepare a Project Brief to get quotes from architects and any other consultants you may need.
+- Obtain quotes and help you appoint the right architects and consultants for the job.
+- Preparing project management documentation for the design and planning stage if required.
 
-{{< /blogsection >}}
+### Preparation of planning application
 
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
+I will lead the preparation of the planning application by:
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+- Preparing a programme to establish target dates for submitting the application and obtaining a decision.
+- Collaborating with the architects and any other consultants and attending any meetings required (via video communication).
+- Communicating with the local planning authority and ensuring all requirements are met in advance of submitting an application.
+- Speaking to any other consultees required and preparing any consultation material if necessary.
+- Writing up a Planning Report and completing the application forms.
+- Preparing any other bespoke reports if appropriate.
+- Reviewing plans and documents prepared by the architects and other consultants to prepare them for submission.
+- Submitting the planning application.
+- Keeping in contact with the local authority planning officer whole the application is being considered and responding to any comments.
+- Reviewing the planner’s report, the draft decision notice and draft s106 agreement and negotiate changes as required.
+- Making representations to be presented at planning committee.
+- Reviewing the decision and advising the client on next steps.
+
+{{< blogsection image="images/single-blog/blog-img.jpg" title="Post Planning Permission Services" >}}
+
+### Track planning conditions and obligations
+
+Some planning permissions require the discharge of planning conditions (listed on the decision notice) and planning obligations (set out in the s106 agreement or other legal document). I can make sure you meet all the post planning permission requirements to remove the risk of enforcement action by providing the following services:
+
+- Setting up a planning conditions and obligations tracker.
+- Co-ordinating and preparing relevant documents and submitting the applications to discharge planning conditions or obligations.
+- Packaging all application material and decision notices ready to provide to future purchasers or tenants of your development.
+
+## Making changes to a planning permission
+
+If you have an existing planning permission that you wish to make changes to, including changing the design or varying planning conditions, I can:
+
+- Advise you on the type of application you need to submit.
+- Provide all services required for the preparation and submission of the application as set out in the “preparation of planning application” section.

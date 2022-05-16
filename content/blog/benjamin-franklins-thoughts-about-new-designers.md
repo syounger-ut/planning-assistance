@@ -1,36 +1,57 @@
 ---
-title: "Benjamin Franklins thoughts about new designers"
-date: 2020-07-13T12:49:27+06:00
+title: "Planning Advice"
 featureImage: images/allpost/allPost-7.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: website
 categories: blog
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+The UK town planning system can be challenging to navigate, with layers of policy and legislation to wade through. Here at Planning Assistance, I distil the important information and provide you with straightforward advice.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Before starting to draw up any proposals for your site you should know the planning constraints and opportunities. This will allow you to understand your choices and confidently brief your architect or design team.
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-> -- <cite>Benjamin Franklin</cite>
+I provide two levels of Planning Advice Reports to suit the varying requirements and budgets of clients, the Basic Planning Facts Report and the Detailed Planning Advice Report.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+## Basic Planning Facts Report
 
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
+### What is in this report
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+This report sets out the key planning issues to consider at the start of your project, and includes:
 
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
+- List of any planning applications previously submitted for the property and their decisions so you can learn from what has been permitted or refused in the past.
+- Planning policy designations affecting the site (for example, is your property in a conservation area or another location that would restrict any permitted development rights?).
+- Your permitted development rights.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+### Who should get this report?
 
-{{< /blogsection >}}
+This report is recommended for someone considering extending or renovating their property as it gives you the basic information you need to understand what you could do to your home without the need for planning permission.
 
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
+For commercial or other types of sites, this report would be useful to identify the basic planning constraints that affect the site and clarify any permitted development rights the property may benefit from.
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+### How much does it cost?
+
+- Prices start from £35 for an individual home.
+- Prices for other types of site will be provided on request.
+
+## Detailed Planning Advice Report
+
+### What is in this report"
+
+This report is a planning feasibility study, providing a detailed planning review and guidance on the planning risk associated with a development proposal on your site and includes:
+
+- Review of the location and site context.
+- Commentary on the planning history of the site and review of planning applications relating to similar sites within the surrounding area.
+- Planning policy designations affecting the site.
+- Your permitted development rights if relevant.
+- If the type of development sought on the site is known, an analysis of the implications of relevant planning policy.
+- Advice on the planning opportunities for the site and next steps for the planning process, including the type of planning application required and documents that would need to be submitted.
+
+### Who should get this report?
+
+This report is recommended for someone considering a development of new homes or commercial buildings. It would give you the detail you need to understand how you can optimise the development potential of your site.
+
+For homeowners, this report would be useful if your property does not benefit from any permitted development rights or if you are planning a development that is not covered by permitted development.
+
+### How much does it cost?
+
+This report is tailored to the specific requirements of your site and so please submit an enquiry for a quote.

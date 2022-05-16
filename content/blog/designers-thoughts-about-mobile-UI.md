@@ -1,36 +1,33 @@
 ---
-title: "Designers thoughts about mobile UI"
-date: 2020-07-13T12:49:27+06:00
+title: "Planning Appeals"
 featureImage: images/allpost/allPost-5.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: mobile
 categories: blog
 ---
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+On average, 5 - 15% of applications are refused in England every year. If your planning application has been refused I can help you to appeal the decision.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+There is a time limit on when you can submit an appeal, and so you should get in touch with me as soon as possible after receiving your decision notice in order to make the appeal (or in the case of the local authority not providing a decision from the date the Council’s statutory period for deciding the application expired\*). The time limits to appeal are:
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
-> -- <cite>Benjamin Franklin</cite>
+- Full planning application: 6 months from receipt of the decision or within 6 months of the date the decision should have been made.
+- Householder planning application: 12 weeks from receipt of the decision or within 6 months of the date the decision should have been made.
+- Outline planning application:6 months from receipt of the decision or within 6 months of the date the decision should have been made.
+- Reserved matters consent application: 6 months from receipt of the decision or within 6 months of the date the decision should have been made.
+- Advertisement consent application: 8 weeks from receipt of the decision or the date the decision should have been made.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+The statutory period for deciding planning applications is 8 weeks for a minor application or 13 for a major application. If the application requires an Environmental Impact Assessment the determination period is extended to 16 weeks.
 
-- ROFL means Rolling on floor laughing.
-- STFU means Shut the _freak_ up.
-- LMK means Let me know.
-- ILY means I love you.
-- YOLO means You only live once.
-- SMH means Shaking my head.
+## Written Representations Planning Appeal
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+My process for preparing a written representations appeal is as follows:
 
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Creative Design" >}}
+- Review the planning application documents, any comments received on the application, the planning officer’s report and the decision notice.
+- Prepare a Full Statement of Case to argue why the application should be approved.
+- Complete the relevant forms and submit the appeal.
+- Analyse documents submitted by the Council and comment as required.
+- Review the Planning Inspectors Report and advise the client on next steps.
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren,
+## Other Types of Planning Appeal
 
-{{< /blogsection >}}
-
-sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.
-
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+Unfortunately at this time we only provide a service for written representations appeals.

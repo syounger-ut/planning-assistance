@@ -2,7 +2,7 @@
 enable: true
 topTitle: Expert town planning assistance
 title: >
-  ## Planning Services
+  ## Planning services
 
   Low cost, high quality town planning services with basic planning reports for your property starting from just £35.
 service:
@@ -16,7 +16,7 @@ service:
 
       Prepare and submit application documents to ensure you get a positive outcome in good time.
 
-    image: images/service/web.svg
+    image: images/service/creative.svg
   - content: >
       #### Planning appeals
 
@@ -32,4 +32,4 @@ service:
       #### Emerging planning policy comments
 
       Respond to future planning policy and submit sites to be allocated for development.
-    image: images/service/branding.svg
+    image: images/service/ui-ux.svg

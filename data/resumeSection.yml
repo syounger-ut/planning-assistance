@@ -2,16 +2,38 @@
 enable: true
 topTitle: My Expertise
 title: >
-  ## My Expertise
+  ## How I can help you
 
   The UK town planning system can be challenging to navigate, with layers of policy and legislation to wade through. I will distil the important information and provide you with straightforward advice.
 
-tab1Name: Education
-tab2Name: Experiences
+tab1Name: Services
+tab2Name: Individuals
+tab3Name: Developers
 tab1Target: education
 tab2Target: experience
+tab3Target: developers
 
-education:
+services:
+  - content: >
+      #### Planning applications
+
+      Planning Assistance provides a full planning manager service to meet the needs of your project.
+
+      I can help you submit the following applications:
+
+        * Full planning permission
+        * Householder planning permission
+        * Outline planning permission
+        * Reserved matters consent
+        * Advertisement consent
+        * Lawful development certificate
+        * Prior approvals
+        * Discharge of planning conditions
+        * Removal or variation of planning conditions
+        * Minor material amendment to a planning permission
+        * Non-material amendment to an existing planning permission
+
+      My planning application management service is adaptable to your requirements and the size of your project.
   - content: >
       #### Consultation
 
@@ -27,22 +49,77 @@ education:
 
 experience:
   - content: >
-      #### Umbrella co.
+      #### Thinking about renovating or extending your home?
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      If you are a homeowner or looking to purchase a new property I can help you understand what home improvements you can carry out without the need for planning permission.
+
+      Before you start planning your project, for just £35 we can let you know what permitted development rights you have and what type of planning application you would need for your works.
+
   - content: >
-      #### Aperture Science
+      #### Do you have a piece of land that could be developed?
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      If you have a site that you would like to develop, I can provide you with advice on what you could potentially build. My report will answer the following:
+
+        * Is my site covered by any local planning policy designations (for example conservation area, green belt, etc.?
+        * What do the planning designations affecting my property mean for my development?
+        * Is my site in an area at risk of flooding?
+        * What planning applications have previously been submitted on my site?
+        * What planning applications have been submitted in the area and why did or didn’t they get planning permission?
+        * What can I do to my site under permitted development?
+        * What type of application do I need to submit?
+        * What documents do I need to submit to the Council?
+        * What is the likelihood that I will get planning permission for my project?
+
   - content: >
-      #### ACME Inc.
+      #### Looking for help getting planning permission?
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
+      I have experience managing planning applications of all sizes, and can help you get permission for your project.
   - content: >
-      #### LexCorp
+      #### Has your application been refused?
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      If you have had a planning application refused I can help you appeal the decision to get it overturned.
+  - content: >
+      #### Want to comment on a planning application?
+
+      If you have been made aware of a planning application on a neighbouring property or within your neighbourhood I can help:
+        * Understand how the planning application could affect you; and
+        * Submit comments on the application to the local authority.
+
+      It is important to note that submitting an **objection to a planning application will not guarantee that it will be refused**. Local authorities are generally supportive of new development and their role is to enable rather than restrict development. The planning system is in place to reduce any impacts of new development on existing properties. A good outcome from submitting a comment on an application will often be that the design is updated in order to remove or reduce any negative impacts on your property.
+
+      Preparing comments on an application can be a time consuming process as it requires a review of the application documents and relevant local policies.  Our quote will be based on the size of the application you wish to comment on.
+
+      We believe that everyone should participate in the planning process and so we offer a basic or premium service to try to meet different budgets.
+
+developers:
+  - content: >
+      #### Do you have a site that you want to develop?
+
+      Did you know that a third of councils can not demonstrate a 5 year housing supply, meaning applications for new housing on undesignated sites should be considered favourably (depending on other constraints). Many councils also welcome new employment generating developments.
+
+      There is no better time to investigate the development potential of your existing site or the one you are looking to purchase.
+
+      I can answer the following questions for you:
+
+        * Is my site covered by any local planning policy designations (for example conservation area, green belt, etc.?
+        * How do the planning designations affecting my site affect the development capacity?
+        * Can the Council demonstrate a 5 year housing supply?
+        * Is my site in an area at risk of flooding?
+        * What planning applications have previously been submitted on my site?
+        * What planning applications have been submitted in the area and why did or didn’t they get planning permission?
+        * What can I do to my site under permitted development?
+        * What type of application do I need to submit?
+        * What documents do I need to submit to the Council?
+        * What is the likelihood that I will get planning permission for my project?
+  - content: >
+      #### Looking for help getting planning permission?
+
+      I have experience managing planning applications of all sizes, and can help you get permission for your project.
+  - content: >
+      #### Has your application been refused?
+
+      If you have had a planning application refused I can help you appeal the decision to get it overturned.
+  - content: >
+      #### Looking to get your site designated in the Local Plan or make comments on draft changes to planning policy?
+
+      I can prepare comments for you on a planning document that is under consultation, including identifying your site to be designated for development.
