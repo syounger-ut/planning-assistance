@@ -1,4 +1,4 @@
-baseURL = "http://www.planning-assistance.com"
+baseURL = "https://www.planning-assistance.co.uk"
 languageCode = "en-GB"
 paginate = 6
 theme = "portio"
@@ -21,8 +21,8 @@ name = "Expertise"
 url = "#resume"
 weight = 4
 [[menu.main]]
-name = "Blog"
-url = "#blog"
+name = "Detail"
+url = "#detail"
 weight = 5
 [[menu.main]]
 name = "Contact"
@@ -42,31 +42,19 @@ weight = 2
 name = "Privacy & Policy"
 url = "#"
 weight = 3
-[[menu.sitemap]]
-name = "Latest Article"
-url = "#"
-weight = 4
 
 [params]
-blogPageURL = "blog"
+blogPageURL = "detail"
 contactLink = "contact"
 copyright = "All right reserved copyright © Portio 2020"
 footerLogo = "images/contact/widget-logo.png"
-formspreeURL = "YOUR FORMSPREE URL"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+formspreeURL = "https://formspree.io/f/mvollppz"
+googleAnalytics = "G-CJK8C1K8Y0"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "Huntshaw Mains, Earlston, Berwickshire, TD4 6AF"
-email = "youngercora@gmail.com"
+email = "cora@planning-assistance.co.uk"
 openingHours = "Open from 9am to 5pm (closed weekends)"
-phone = "+(448) 833 5272 332"
-
-[params.map]
-APIkey = "YOUR GOOGLE MAP API"
-latitude = "23.7783741"
-longitude = "90.3746808"
-pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]

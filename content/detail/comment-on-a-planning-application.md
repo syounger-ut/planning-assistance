@@ -2,7 +2,7 @@
 title: "Comment on a Planning Application"
 featureImage: images/allpost/allPost-9.jpg
 postImage: images/single-blog/feature-image.jpg
-tags: fun
+tags: [planning application, comment]
 categories: documentation
 toc: true
 ---
