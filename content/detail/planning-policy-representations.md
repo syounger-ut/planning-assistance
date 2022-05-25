@@ -1,7 +1,7 @@
 ---
 title: "Planning Policy Representations"
 featureImage: images/allpost/allPost-3.jpg
-postImage: images/single-blog/feature-image.jpg
+postImage: images/allpost/allPost-3.jpg
 tags: planning policy
 categories: documentation
 toc: true

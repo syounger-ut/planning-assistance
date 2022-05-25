@@ -1,7 +1,7 @@
 ---
 title: "Planning Advice"
 featureImage: images/allpost/allPost-7.jpg
-postImage: images/single-blog/feature-image.jpg
+postImage: images/allpost/allPost-7.jpg
 tags: advice, planning report
 categories: documentation
 ---

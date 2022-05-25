@@ -1,7 +1,7 @@
 ---
 title: "Planning Applications"
 featureImage: images/allpost/allPost-2.jpg
-postImage: images/single-blog/feature-image.jpg
+postImage: images/allpost/allPost-2.jpg
 tags: planning application
 categories: documentation
 ---
@@ -50,8 +50,6 @@ I will lead the preparation of the planning application by:
 - Reviewing the planner’s report, the draft decision notice and draft s106 agreement and negotiate changes as required.
 - Making representations to be presented at planning committee.
 - Reviewing the decision and advising the client on next steps.
-
-{{< blogsection image="images/single-blog/blog-img.jpg" title="Post Planning Permission Services" >}}
 
 ### Track planning conditions and obligations
 
