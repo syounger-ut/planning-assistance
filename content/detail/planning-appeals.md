@@ -2,8 +2,8 @@
 title: "Planning Appeals"
 featureImage: images/allpost/allPost-5.jpg
 postImage: images/single-blog/feature-image.jpg
-tags: mobile
-categories: blog
+tags: planning application, appeal
+categories: documentation
 ---
 
 On average, 5 - 15% of applications are refused in England every year. If your planning application has been refused I can help you to appeal the decision.

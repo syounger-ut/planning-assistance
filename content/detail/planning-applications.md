@@ -2,7 +2,7 @@
 title: "Planning Applications"
 featureImage: images/allpost/allPost-2.jpg
 postImage: images/single-blog/feature-image.jpg
-tags: mobile
+tags: planning application
 categories: documentation
 ---
 

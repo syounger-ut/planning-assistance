@@ -4,7 +4,6 @@ featureImage: images/allpost/allPost-9.jpg
 postImage: images/single-blog/feature-image.jpg
 tags: [planning application, comment]
 categories: documentation
-toc: true
 ---
 
 It is natural to have concerns when a planning application is submitted next door or in your neighbourhood. The planning system is there to reduce any negative impacts of new development, and the legal requirement to consult on applications aims to make sure the views of anyone affected by a development are considered.
