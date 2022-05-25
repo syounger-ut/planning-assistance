@@ -12,25 +12,30 @@ service:
 
       Set out what you can do and what planning regulations affect your site.
     image: images/service/ui-ux.svg
+    detailPath: /detail/planning-advice
   - content: >
       #### Planning application management
 
       Prepare and submit application documents to ensure you get a positive outcome in good time.
 
     image: images/service/creative.svg
+    detailPath: /detail/planning-applications
   - content: >
       #### Planning appeals
 
       Prepare and submit appeal documents if your application has been refused.
 
     image: images/service/ui-ux.svg
+    detailPath: /detail/planning-appeals
   - content: >
       #### Planning application representations
 
       Write letters of objection or support for planning applications that affect you.
     image: images/service/creative.svg
+    detailPath: /detail/comment-on-a-planning-application
   - content: >
       #### Emerging planning policy comments
 
       Respond to future planning policy and submit sites to be allocated for development.
     image: images/service/ui-ux.svg
+    detailPath: /detail/planning-policy-representations
