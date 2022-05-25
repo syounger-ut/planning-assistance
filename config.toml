@@ -1,4 +1,7 @@
-baseURL = "https://www.planning-assistance.co.uk"
+baseURL = "https://planning-assistance.co.uk"
+relativeURLs = true
+canonifyURLs = true
+
 languageCode = "en-GB"
 paginate = 6
 theme = "portio"
