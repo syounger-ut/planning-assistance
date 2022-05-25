@@ -59,13 +59,13 @@ openingHours = "Open from 9am to 5pm (closed weekends)"
 # Social icons
 [[params.social]]
 icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+url = "https://www.facebook.com/Planning-Assistance-111675564881572"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/company/planning-assistance-uk"
 weight = 2
 [[params.social]]
 icon = "fa-twitter-square"
-url = "https://twitter.com/"
+url = "https://twitter.com/planningassist1"
 weight = 3
