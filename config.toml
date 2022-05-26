@@ -4,7 +4,6 @@ canonifyURLs = true
 
 languageCode = "en-GB"
 paginate = 6
-theme = "portio"
 title = "Planning Assistance"
 # Main Menu
 [[menu.main]]
